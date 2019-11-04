@@ -39,7 +39,6 @@ Partial Class frmArchivocsv
         Me.Label2 = New System.Windows.Forms.Label()
         Me.cmdInsert = New System.Windows.Forms.Button()
         Me.lblGuardarCSV = New System.Windows.Forms.Label()
-        Me.cmdVolver = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -122,7 +121,7 @@ Partial Class frmArchivocsv
         Me.TextBox1.Anchor = System.Windows.Forms.AnchorStyles.Bottom
         Me.TextBox1.BackColor = System.Drawing.SystemColors.Control
         Me.TextBox1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.TextBox1.Location = New System.Drawing.Point(180, 406)
+        Me.TextBox1.Location = New System.Drawing.Point(105, 406)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(273, 26)
         Me.TextBox1.TabIndex = 8
@@ -134,7 +133,7 @@ Partial Class frmArchivocsv
         Me.ButtonBUSCAR.BackColor = System.Drawing.SystemColors.Control
         Me.ButtonBUSCAR.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ButtonBUSCAR.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.ButtonBUSCAR.Location = New System.Drawing.Point(496, 399)
+        Me.ButtonBUSCAR.Location = New System.Drawing.Point(421, 399)
         Me.ButtonBUSCAR.Name = "ButtonBUSCAR"
         Me.ButtonBUSCAR.Size = New System.Drawing.Size(140, 40)
         Me.ButtonBUSCAR.TabIndex = 9
@@ -181,26 +180,12 @@ Partial Class frmArchivocsv
         Me.lblGuardarCSV.TabIndex = 13
         Me.lblGuardarCSV.Text = "Exportar CSV"
         '
-        'cmdVolver
-        '
-        Me.cmdVolver.Anchor = System.Windows.Forms.AnchorStyles.Bottom
-        Me.cmdVolver.BackColor = System.Drawing.SystemColors.Control
-        Me.cmdVolver.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cmdVolver.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.cmdVolver.Location = New System.Drawing.Point(12, 399)
-        Me.cmdVolver.Name = "cmdVolver"
-        Me.cmdVolver.Size = New System.Drawing.Size(140, 40)
-        Me.cmdVolver.TabIndex = 14
-        Me.cmdVolver.Text = "VOLVER"
-        Me.cmdVolver.UseVisualStyleBackColor = False
-        '
         'frmArchivocsv
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(885, 444)
-        Me.Controls.Add(Me.cmdVolver)
         Me.Controls.Add(Me.lblGuardarCSV)
         Me.Controls.Add(Me.cmdInsert)
         Me.Controls.Add(Me.Label2)
@@ -237,5 +222,4 @@ Partial Class frmArchivocsv
     Friend WithEvents anioDGV As DataGridViewTextBoxColumn
     Friend WithEvents tipoDGV As DataGridViewTextBoxColumn
     Friend WithEvents lblGuardarCSV As Label
-    Friend WithEvents cmdVolver As Button
 End Class

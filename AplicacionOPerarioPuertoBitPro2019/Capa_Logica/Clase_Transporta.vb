@@ -104,13 +104,11 @@
         Dim sql As String
         Dim rs As New ADODB.Recordset
 
-        sql = "select id_lote, count (lote) from lote left join lotecargado on id_lote = lote
-where id_lote = all (select id_lote from transporta where fechahorafinal is null) group by id_lote
-having count(lote) = 10 order by id_lote"
+        sql = "select id_lote, count(lote) from lote l inner join lotecargado lg on l.id_lote=lg.lote having count(lote) = 10 inner join transporta t on t.lote=l.id_lote where fechahorafinal is null group by id_lote order by id_lote"
         MsgBox("aqui: " & sql)
         rs.Open(sql, cn)
-        _lote = rs("id_lote").Value
         cargaGrilla(rs, frmTransportista.dgvLotes)
+        _lote = rs("id_lote").Value
         rs.Close()
     End Sub
 

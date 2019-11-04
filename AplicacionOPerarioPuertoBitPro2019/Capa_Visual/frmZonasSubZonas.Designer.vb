@@ -109,7 +109,7 @@ Partial Class frmZonasSubZonas
         'lblFechahora
         '
         Me.lblFechahora.AutoSize = True
-        Me.lblFechahora.Location = New System.Drawing.Point(193, 15)
+        Me.lblFechahora.Location = New System.Drawing.Point(221, 15)
         Me.lblFechahora.Name = "lblFechahora"
         Me.lblFechahora.Size = New System.Drawing.Size(78, 17)
         Me.lblFechahora.TabIndex = 10

@@ -76,4 +76,27 @@ Public Class Clase_Zona
     End Sub
     '**************************************************************
     '**************************************************************
+    'Public Sub gAsignarZona(cn As ADODB.Connection)
+
+    '    Dim retorno As Integer = 0
+    '    Dim sql As String
+
+    '    rs.Open("select * from zona where ", cn)
+    '    rs.MoveLast()
+
+    '    'ORDEN DE LA TABLA ZONA
+    '    '(id_zona, nombre, tamanio, borrado)
+    '    sql = "insert into zona values (" & _id_zona & ", '" & _nombre & "', " & _tamanio & ", '" & _borrado & "')"
+    '    MsgBox(sql)
+    '    Try
+    '        cn.Execute(sql)
+    '        MsgBox("Se Asigno un vehiculo a la zona: " & _id_zona & ", de nombre: " & _nombre)
+    '    Catch ex As Exception
+    '        MsgBox("No se pudo asignar el vehiculo a la zona.")
+    '    End Try
+
+    'End Sub
+
+    '**************************************************************
+    '**************************************************************
 End Class

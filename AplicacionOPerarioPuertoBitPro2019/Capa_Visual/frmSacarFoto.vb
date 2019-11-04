@@ -29,7 +29,7 @@ Public Class frmSacarFoto
 
         'hay que editar la ubicacion a la que corresponda
         url = "D:\Usuario\Desktop\FotoInspeccion\" & lblIDInspeccion.Text & "_" & lblIDLinea.Text & ".jpg"
-        'MsgBox("GUARDA EN: " & url)
+        MsgBox("GUARDA EN: " & url)
         f.link = url
         Try
             pbVistaPrevia.Image.Save("" & url & "")

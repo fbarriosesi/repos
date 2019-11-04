@@ -25,6 +25,7 @@ Partial Class frmOperarioPuerto
         Me.Label1 = New System.Windows.Forms.Label()
         Me.cmdBuscar = New System.Windows.Forms.Button()
         Me.cmdInspeccion = New System.Windows.Forms.Button()
+        Me.cmdCancelar = New System.Windows.Forms.Button()
         Me.txt_Vin = New System.Windows.Forms.TextBox()
         Me.cmdSalir = New System.Windows.Forms.Button()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
@@ -78,6 +79,16 @@ Partial Class frmOperarioPuerto
         Me.cmdInspeccion.TabIndex = 38
         Me.cmdInspeccion.Text = "Inspección"
         Me.cmdInspeccion.UseVisualStyleBackColor = True
+        '
+        'cmdCancelar
+        '
+        Me.cmdCancelar.Location = New System.Drawing.Point(400, 462)
+        Me.cmdCancelar.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.cmdCancelar.Name = "cmdCancelar"
+        Me.cmdCancelar.Size = New System.Drawing.Size(79, 28)
+        Me.cmdCancelar.TabIndex = 40
+        Me.cmdCancelar.Text = "Cancelar"
+        Me.cmdCancelar.UseVisualStyleBackColor = True
         '
         'txt_Vin
         '
@@ -285,6 +296,7 @@ Partial Class frmOperarioPuerto
         Me.ClientSize = New System.Drawing.Size(857, 538)
         Me.Controls.Add(Me.cmdBuscar)
         Me.Controls.Add(Me.cmdInspeccion)
+        Me.Controls.Add(Me.cmdCancelar)
         Me.Controls.Add(Me.txt_Vin)
         Me.Controls.Add(Me.cmdSalir)
         Me.Controls.Add(Me.GroupBox1)
@@ -303,6 +315,7 @@ Partial Class frmOperarioPuerto
     Friend WithEvents Label1 As Label
     Friend WithEvents cmdBuscar As Button
     Friend WithEvents cmdInspeccion As Button
+    Friend WithEvents cmdCancelar As Button
     Friend WithEvents txt_Vin As TextBox
     Friend WithEvents cmdSalir As Button
     Friend WithEvents GroupBox1 As GroupBox

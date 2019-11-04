@@ -25,9 +25,4 @@
         t.FinalizarViaje()
 
     End Sub
-
-    Private Sub cmdSalir_Click(sender As Object, e As EventArgs) Handles cmdSalir.Click
-        frmLogin.Show()
-        Me.Close()
-    End Sub
 End Class

@@ -125,7 +125,7 @@ Public Class Clase_Inspeccion
         'ORDEN DE LA TABLA INSPECCION
         '(id_inspeccion, cedula, vehiculo, fechahora, borrado)
         sql = "insert into inspeccion values (" & _id_inspeccion & ", " & _cedula & ", " & _vehiculo & ", current, '" & _borrado & "')"
-        'MsgBox("SQL DE GUARDAR INSPECCION: " & sql)
+        MsgBox("SQL DE GUARDAR INSPECCION: " & sql)
         Try
             cn.Execute(sql)
         Catch ex As Exception

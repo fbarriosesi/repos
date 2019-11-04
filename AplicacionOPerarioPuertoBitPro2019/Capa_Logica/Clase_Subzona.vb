@@ -67,4 +67,25 @@
     End Sub
     '**************************************************************
     '**************************************************************
+    'Public Sub gAsignarSubzona(cn As ADODB.Connection)
+
+    '    Dim retorno As Integer = 0
+    '    Dim sql As String
+    '    _borrado = "f"
+
+    '    'ORDEN DE LA TABLA ZONA
+    '    '(id_subzona, nombre, zona, borrado)
+    '    sql = "insert into subzona values (" & _id_subzona & ", '" & _nombre & "', " & _zona & ", '" & _borrado & "')"
+    '    MsgBox(sql)
+    '    Try
+    '        cn.Execute(sql)
+    '        MsgBox("Se Asigno un vehiculo a la subzona: " & _id_subzona & ", de nombre: " & _nombre)
+    '    Catch ex As Exception
+    '        MsgBox("No se pudo asignar el vehiculo a la zona.")
+    '    End Try
+
+    'End Sub
+
+    '**************************************************************
+    '**************************************************************
 End Class

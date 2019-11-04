@@ -26,8 +26,6 @@ Partial Class frmTransportista
         Me.cmdFinalizarViaje = New System.Windows.Forms.Button()
         Me.cmdSalir = New System.Windows.Forms.Button()
         Me.dgvLotes = New System.Windows.Forms.DataGridView()
-        Me.Id_Lote = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Cantidad = New System.Windows.Forms.DataGridViewTextBoxColumn()
         CType(Me.dgvLotes, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -62,22 +60,11 @@ Partial Class frmTransportista
         'dgvLotes
         '
         Me.dgvLotes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgvLotes.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Id_Lote, Me.Cantidad})
         Me.dgvLotes.Location = New System.Drawing.Point(12, 12)
         Me.dgvLotes.Name = "dgvLotes"
         Me.dgvLotes.RowTemplate.Height = 24
         Me.dgvLotes.Size = New System.Drawing.Size(1134, 486)
         Me.dgvLotes.TabIndex = 5
-        '
-        'Id_Lote
-        '
-        Me.Id_Lote.HeaderText = "id_lote"
-        Me.Id_Lote.Name = "Id_Lote"
-        '
-        'Cantidad
-        '
-        Me.Cantidad.HeaderText = "Count"
-        Me.Cantidad.Name = "Cantidad"
         '
         'frmTransportista
         '
@@ -98,6 +85,4 @@ Partial Class frmTransportista
     Friend WithEvents cmdFinalizarViaje As Button
     Friend WithEvents cmdSalir As Button
     Friend WithEvents dgvLotes As DataGridView
-    Friend WithEvents Id_Lote As DataGridViewTextBoxColumn
-    Friend WithEvents Cantidad As DataGridViewTextBoxColumn
 End Class

@@ -119,7 +119,7 @@
         Dim rs As New ADODB.Recordset
         sql = "select id_linea, descripcion from linea inner join danio on danio = id_danio where inspeccion = " & inspeccion
         Try
-            'MsgBox("lista lineas: " & sql)
+            MsgBox("lista lineas: " & sql)
             rs.Open(sql, cn)
             cargaGrilla(rs, frmDetalles.dgvLineas)
         Catch ex As Exception

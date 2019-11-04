@@ -66,7 +66,7 @@
     End Sub
     '**************************************************************
     '**************************************************************
-    Function buscarDanio(descripcion As String) As Integer
+    Function buscarDanio(cn As ADODB.Connection) As Integer
         Dim sql As String
         Dim rs As New ADODB.Recordset
         Dim retorno As Integer = 0
@@ -74,13 +74,13 @@
         sql = "select id_danio from danio where descripcion = '" & descripcion & "'"
         Try
             rs.Open(sql, cn)
-            'MsgBox("EN EL TRY EL SQL: " & sql)
+            MsgBox("EN EL TRY EL SQL: " & sql)
 
         Catch ex As Exception
-            'MsgBox(ex.ToString)
+            MsgBox(ex.ToString)
         End Try
         If rs.RecordCount = 0 Then
-            'MsgBox("No se encontró el ID del Daño con esa Descripción.")
+            MsgBox("No se encontró el ID del Daño con esa Descripción.")
         Else
             _id_danio = rs("id_danio").Value
         End If

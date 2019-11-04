@@ -104,7 +104,7 @@
         Dim sql As String = "insert into foto (id_foto, linea, inspeccion, link, borrado) values (" & _id_foto & ", " & linea & ", " & inspeccion & ", '" & link & "', 'f')"
         Try
             rs.Open("insert into foto (id_foto, linea, inspeccion, link, borrado) values (" & _id_foto & ", " & linea & ", " & inspeccion & ", '" & link & "', 'f')", cn)
-            'MsgBox("La foto se guardó correctamente. GF")
+            MsgBox("La foto se guardó correctamente. GF")
         Catch ex As Exception
             MsgBox("No se pudo guardar la foto. GF")
         End Try
@@ -119,7 +119,7 @@
         Dim rs As New ADODB.Recordset
         Dim sql As String = "select link from foto where linea = " & id_linea & " and inspeccion = " & id_inspeccion
         Try
-            'MsgBox(sql)
+            MsgBox(sql)
             rs.Open(sql, cn)
         Catch ex As Exception
             MsgBox("Error al encontrar la foto para mostrar.")
