@@ -1,0 +1,399 @@
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBusca_Vehiculo.resources
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\work\UTU 2019\1 PROYECTO FINAL 3ºBE\1 - ENTREGA MATERIAS\PROGRAMACION\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBusca_Vehiculo.resources
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\User\Source\Repos\NewRepo\AplicacionOPerarioPuertoBitPro2019\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBusca_Vehiculo.resources
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+D:\ESI\PROGRAMACION\Backups\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBusca_Vehiculo.resources
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\Google Drive\Respaldos\Programacion\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\Interop.ADODB.dll
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListaUsuarios.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmMenu.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuarios.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmVehiculos.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmModificar.resources
+C:\Users\Vizz3rdriX\prueba\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuario.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\Interop.ADODB.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListaUsuarios.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmMenu.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmModificar.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuario.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuarios.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmVehiculos.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\Interop.ADODB.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBuscaVehiculoAdmin.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListaUsuarios.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmMenu.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmModificar.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuario.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuarios.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmVehiculos.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUbicacionMaps.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmTransportista.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPuerto.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListadoVehiculos.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.dll
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.xml
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.pdb
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.pdb
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.pdb
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.pdb
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\Interop.ADODB.dll
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBuscaVehiculoAdmin.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListadoVehiculos.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListaUsuarios.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmMenu.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmModificar.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPuerto.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmTransportista.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuario.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuarios.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmVehiculos.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUbicacionMaps.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmArchivocsv.resources
+D:\Usuario\Google Drive\Respaldos\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmSacarFoto.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\Interop.ADODB.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmArchivocsv.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBuscaVehiculoAdmin.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListadoVehiculos.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListaUsuarios.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmMenu.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmModificar.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPuerto.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmSacarFoto.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmTransportista.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuario.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuarios.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmVehiculos.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUbicacionMaps.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.pdb
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.pdb
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Usuario\repositorios\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe.config
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\QRCoder.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.pdb
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.pdb
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\bin\Debug\itextsharp.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbprojAssemblyReference.cache
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\Interop.ADODB.dll
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.ResolveComReference.cache
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmArchivocsv.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBuscaVehiculoAdmin.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmInspeccion.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListadoVehiculos.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListaUsuarios.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmLogin.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmMenu.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmModificar.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPatio.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPuerto.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmQRCode.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmSacarFoto.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmTransportista.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuario.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUsuarios.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmVehiculos.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmZonasSubZonas.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUbicacionMaps.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.Resources.resources
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.GenerateResource.cache
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.vbproj.CopyComplete
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.exe
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.xml
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.pdb
+C:\Users\Usuario\repositorios\sistema-completo\sistema-completo\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmDetalles.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.dll
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Controls.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Imaging.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Math.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AForge.Vision.xml
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Core.pdb
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\bin\Debug\AS.Video.Sources.AForge.pdb
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmArchivocsv.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmBuscaVehiculoAdmin.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmDetalles.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmListadoVehiculos.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmOperarioPuerto.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmSacarFoto.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmTransportista.resources
+C:\Users\Usuario\repositorios\aplicacion-operario\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmUbicacionMaps.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmArchivocsv.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmDetalles.resources
+D:\Usuario\Desktop\AplicacionOPerarioPuertoBitPro2019\obj\Debug\AplicacionOPerarioPuertoBitPro2019.frmSacarFoto.resources
